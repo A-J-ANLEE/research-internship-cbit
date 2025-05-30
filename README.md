@@ -19,7 +19,7 @@ This task was aimed at promoting self-learning and upskilling through industry-r
 
 ## 📜 Certificate
 
-You can view the certificate [python fundamentals.pdf]
+You can view the certificate [(https://github.com/A-J-ANLEE/internship-task-1-CBIT/blob/main/task%201/python%20fundamentals.pdf)]
 
 ---
 
