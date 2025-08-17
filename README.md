@@ -51,7 +51,9 @@ An OCR-based system that extracts and organizes medical prescription information
 2. **Install dependencies**:
    ```bash
    pip install easyocr opencv-python numpy
-
+   ```
    TO ACCESS THE CODE HERE:
+
+
 
 
