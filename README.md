@@ -19,7 +19,7 @@ This task was aimed at promoting self-learning and upskilling through industry-r
 
 ## 📜 Certificate
 
-You can view the certificate [(https://github.com/A-J-ANLEE/internship-task-1-CBIT/blob/main/task%201/python%20fundamentals.pdf)]
+You can view the certificate [Click Me](https://github.com/A-J-ANLEE/internship-task-1-CBIT/blob/main/task%201/python%20fundamentals.pdf)
 
 ---
 
@@ -52,7 +52,8 @@ An OCR-based system that extracts and organizes medical prescription information
    ```bash
    pip install easyocr opencv-python numpy
    ```
-   TO ACCESS THE CODE HERE:https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/main.py
+  FOR THE MAIN APPLICATION CODE, [Click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/main.py).
+
 
 
 
