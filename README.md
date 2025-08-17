@@ -23,3 +23,35 @@ You can view the certificate [(https://github.com/A-J-ANLEE/internship-task-1-CB
 
 ---
 
+# Prescription Analysis System
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-1.4.1-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5.5-red)
+
+An OCR-based system that extracts and organizes medical prescription information into structured tabs.
+
+## Features
+
+- **Automatic Text Extraction**: Recognizes both printed and handwritten prescriptions
+- **Structured Data Organization**: Categorizes information into:
+  - Patient Information
+  - Diagnosis
+  - Prescription Medications
+  - Doctor Details
+- **Smart Parsing**: Handles multiple prescription formats and medical abbreviations
+- **Error Resilient**: Provides "Not found" placeholders for missing information
+
+## Installation
+
+1. **Prerequisites**:
+   - Python 3.8+
+   - Tesseract OCR (for some systems)
+
+2. **Install dependencies**:
+   ```bash
+   pip install easyocr opencv-python numpy
+
+   TO ACCESS THE CODE HERE:
+
+
