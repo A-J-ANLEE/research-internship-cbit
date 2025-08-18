@@ -23,7 +23,7 @@ You can view the certificate [Click Me](https://github.com/A-J-ANLEE/internship-
 
 ---
 
-# Prescription Analysis System
+#zero-shot handwritten medical term translation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-1.4.1-green)
@@ -53,6 +53,8 @@ An OCR-based system that extracts and organizes medical prescription information
    pip install easyocr opencv-python numpy
    ```
   FOR THE MAIN APPLICATION CODE, [Click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/main.py).
+  VIDEO FILE:[click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/Untitled%20Project.mp4)
+
 
 
 
