@@ -22,6 +22,7 @@ This task was aimed at promoting self-learning and upskilling through industry-r
 You can view the certificate [Click Me](https://github.com/A-J-ANLEE/internship-task-1-CBIT/blob/main/task%201/python%20fundamentals.pdf)
 
 ---
+## TASK-2 MACHINE LEARNING:-
 # Professional Machine Learning Engineer Study Guide — Badge Earned
 
 ###  Badge:  
@@ -46,7 +47,7 @@ You can view the certificate [Click Me](https://github.com/A-J-ANLEE/internship-
 [View my badge on Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/2e097757-6c49-41fa-a5cb-16474bbdef0e/badges/17994857?qlcampaign=1p-EDUCR-35%3A%3AFIbPZoQJ9iFijezvLTXRqg)
 
 ---
-
+## Task-3 Deep Learning
 # Keras & TensorFlow for Deep Learning — Course Completion 🎓
 
 This repository contains my notes, exercises, and projects from the **Keras & TensorFlow for Deep Learning** course offered by **Scaler Academy**.
@@ -56,11 +57,10 @@ This repository contains my notes, exercises, and projects from the **Keras & Te
 ## 📌 Course Details
 - **Provider:** [Scaler Topics](https://www.scaler.com/topics/course/keras-tensorflow-for-deep-learning/)
 - **Duration:** ~9 hours (self-paced)
-- **Certificate:** ✅ [View Certificate](link-to-your-certificate)
+- **Certificate:** ✅ [View Certificate](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/deeplearning%20certificate.JPG)
 - **Technologies Used:** Python, TensorFlow, Keras, NumPy, Matplotlib
 
 ---
-## Task-3 Deep Learning
 ## 📚 What I Learned
 - Fundamentals of **Keras** and **TensorFlow**
 - Building and training deep learning models
@@ -72,7 +72,7 @@ This repository contains my notes, exercises, and projects from the **Keras & Te
 ---
 
 ## 📄 Certificate
-![Certificate](link-to-certificate-image.png)  
+![Certificate](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/deeplearning%20certificate.JPG)  
 
 ---
 
@@ -82,7 +82,7 @@ This repository contains my notes, exercises, and projects from the **Keras & Te
 
 
 ---
-
+## CAPSTONE PROJECT:-
 # zero-shot handwritten medical term translation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -114,6 +114,7 @@ An OCR-based system that extracts and organizes medical prescription information
    ```
   FOR THE MAIN APPLICATION CODE, [Click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/main.py).
   VIDEO FILE:[click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/Untitled%20Project.mp4)
+
 
 
 
