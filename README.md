@@ -22,6 +22,66 @@ This task was aimed at promoting self-learning and upskilling through industry-r
 You can view the certificate [Click Me](https://github.com/A-J-ANLEE/internship-task-1-CBIT/blob/main/task%201/python%20fundamentals.pdf)
 
 ---
+# Professional Machine Learning Engineer Study Guide — Badge Earned
+
+###  Badge:  
+[Professional Machine Learning Engineer Study Guide – Skill Badge](https://www.cloudskillsboost.google/public_profiles/2e097757-6c49-41fa-a5cb-16474bbdef0e/badges/17994857?qlcampaign=1p-EDUCR-35%3A%3AFIbPZoQJ9iFijezvLTXRqg)
+
+---
+
+##  Course Details
+- **Provider:** Google Cloud Skills Boost  
+- **Course:** Professional Machine Learning Engineer Study Guide  
+- **Duration:** Approximately 2 hours :contentReference[oaicite:2]{index=2}
+
+---
+
+##  What I Learned
+- Developed a personalized study plan for the **PMLE certification exam**  
+- Covered key exam domains: feature engineering, MLOps, model evaluation, exam readiness :contentReference[oaicite:3]{index=3}
+
+---
+
+##  Badge Verification
+[View my badge on Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/2e097757-6c49-41fa-a5cb-16474bbdef0e/badges/17994857?qlcampaign=1p-EDUCR-35%3A%3AFIbPZoQJ9iFijezvLTXRqg)
+
+---
+
+# Keras & TensorFlow for Deep Learning — Course Completion 🎓
+
+This repository contains my notes, exercises, and projects from the **Keras & TensorFlow for Deep Learning** course offered by **Scaler Academy**.
+
+---
+
+## 📌 Course Details
+- **Provider:** [Scaler Topics](https://www.scaler.com/topics/course/keras-tensorflow-for-deep-learning/)
+- **Duration:** ~9 hours (self-paced)
+- **Certificate:** ✅ [View Certificate](link-to-your-certificate)
+- **Technologies Used:** Python, TensorFlow, Keras, NumPy, Matplotlib
+
+---
+## Task-3 Deep Learning
+## 📚 What I Learned
+- Fundamentals of **Keras** and **TensorFlow**
+- Building and training deep learning models
+- Convolutional Neural Networks (**CNNs**) for image tasks
+- Recurrent Neural Networks (**RNNs**) for sequential data
+- Transfer Learning and Fine-Tuning
+- Autoencoders for feature learning and dimensionality reduction
+
+---
+
+## 📄 Certificate
+![Certificate](link-to-certificate-image.png)  
+
+---
+
+## 🔗 Useful Links
+- [Course Link](https://www.scaler.com/topics/course/keras-tensorflow-for-deep-learning/)
+- [Scaler Topics](https://www.scaler.com/topics/)
+
+
+---
 
 # zero-shot handwritten medical term translation
 
@@ -54,6 +114,7 @@ An OCR-based system that extracts and organizes medical prescription information
    ```
   FOR THE MAIN APPLICATION CODE, [Click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/main.py).
   VIDEO FILE:[click Me](https://github.com/A-J-ANLEE/research-internship-cbit/blob/main/Untitled%20Project.mp4)
+
 
 
 
